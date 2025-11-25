@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: liberty492/pnr:11
+        image: liberty492/pnr:14
         ports:
         - containerPort: 8080
 ---
